@@ -1,13 +1,13 @@
 import React from 'react'
 import {Route, Switch} from 'react-router-dom'
 import Dashboard from '../pages/Dashboard'
-import Devices from '../pages/Devices'
+import Customers from '../pages/Customers'
 
 const Routes = () => {
   return (
     <Switch>
-        <Route path='/' component={Dashboard}/>
-        <Route path='/devices' component={Devices}/>
+        <Route path='/' exact component={Dashboard}/>
+        <Route path='/customers' component={Customers}/>
     </Switch>
   )
 }
