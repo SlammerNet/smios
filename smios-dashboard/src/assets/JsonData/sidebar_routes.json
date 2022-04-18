@@ -20,24 +20,9 @@
         "icon": "bx bx-cart"
     },
     {
-        "display_name": "Analytics",
-        "route": "/analytics",
-        "icon": "bx bx-bar-chart-alt"
-    },
-    {
-        "display_name": "Categories",
-        "route": "/categories",
-        "icon": "bx bx-list-ol"
-    },
-    {
-        "display_name": "Discount",
-        "route": "/discount",
-        "icon": "bx bx-gift"
-    },
-    {
-        "display_name": "Inventory",
-        "route": "/inventory",
-        "icon": "bx bx-store-alt"
+        "display_name": "Mapa",
+        "route": "/maps",
+        "icon": "bx bx-map-pin"
     },
     {
         "display_name": "Settings",

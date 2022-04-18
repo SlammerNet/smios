@@ -1,0 +1,23 @@
+.status-card{
+    padding: 30px;
+    display: flex;
+    align-items: center;
+    background-color: var(--main-bg);
+    box-shadow: var(--box-shadon);
+    border-radius: var(--border-radius);
+    position: relative;
+    overflow: hidden;
+    z-index: 1; 
+    transition: color 0.5s ease 0s;
+    margin-bottom: 30px;
+}
+
+.status-card__icon{
+    width: 30%;
+    height: 100%;
+    font-size: 3rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 1;
+}
