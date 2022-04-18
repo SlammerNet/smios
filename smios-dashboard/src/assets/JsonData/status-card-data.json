@@ -1,22 +1,22 @@
 [
     {
-        "icon": "bx bx-shopping-bag",
-        "count": "1,995",
-        "title": "Total sales"
+        "icon": "bx bx-water",
+        "count": "1,995 m³",
+        "title": "Vazão Total Poços"
     },
     {
-        "icon": "bx bx-cart",
+        "icon": "bx bx-droplet",
         "count": "2,001",
-        "title": "Daily visits"
+        "title": "Volume Total (m³)"
     },
     {
-        "icon": "bx bx-dollar-circle",
-        "count": "$2,632",
-        "title": "Total income"
+        "icon": "bx bx-cog",
+        "count": "57",
+        "title": "Dispositivos Online"
     },
     {
-        "icon": "bx bx-receipt",
+        "icon": "bx bxs-doughnut-chart",
         "count": "1,711",
-        "title": "Total orders"
+        "title": "Horimetro Total"
     }
 ]
